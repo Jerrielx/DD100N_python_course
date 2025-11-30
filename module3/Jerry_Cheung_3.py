@@ -19,7 +19,7 @@ for i in range(ANTAL_ELEVER):
         hopp = float(input(": "))
         längdhopp.append(hopp)
     elever_längdhopp[elev] = längdhopp
-
+#we are testing merge
 select = 0
 while select != 3:
     print("\n1. Visa all resultat")
